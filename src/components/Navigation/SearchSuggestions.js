@@ -66,7 +66,7 @@ const SearchSuggestions = ({
       <div className='search__suggestions-loading'>
         <h4>Searching.....</h4>
       </div>
-      )}
+      {/* )} */}
     </div>
   ) : (
     ''

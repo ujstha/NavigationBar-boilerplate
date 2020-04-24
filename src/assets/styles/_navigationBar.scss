@@ -8,6 +8,7 @@ nav.navbar {
   transition: top ease-in-out 0.3s;
   .search__search-close {
     border-radius: 50%;
+    color: $light-theme-text-color;
     &:hover {
       background-color: $light-theme-background-color;
     }
@@ -38,9 +39,9 @@ body.dark-theme {
       color: $dark-theme-text-color !important;
     }
     .search__search-close {
-      color: $dark-theme-text-color;
+      color: $light-theme-text-color;
       &:hover {
-        background-color: $dark-theme-active-background-color;
+        background-color: $light-theme-active-background-color;
       }
     }
     a.active {

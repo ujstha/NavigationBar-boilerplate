@@ -40,3 +40,25 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
+
+## Screenshots
+
+`Side Navigation Bar in dark theme`
+
+![](src/assets/images/Nav-SideNavDark.png)
+
+`Side Navigation Bar in light theme`
+
+![](src/assets/images/SideNavbar.png)
+
+`Navbar in light theme`
+
+![](src/assets/images/Navbar.png)
+
+`Search Bar in light theme`
+
+![](src/assets/images/Searchbar.png)
+
+`Search Suggestion in dark theme`
+
+![](src/assets/images/SearchSuggestion.png)
